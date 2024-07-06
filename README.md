@@ -22,6 +22,7 @@ log: admin, pass: admin
 cd /frontend/
 npm install
 npm install -g @vue/cli
+npm run serve
 Local:   http://localhost:8080/
 ```
 
